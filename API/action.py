@@ -1,5 +1,5 @@
 from conDb import Con
-C = Con
+
 
 class Action:
     def add_restrat():
@@ -10,14 +10,6 @@ class Action:
         data = Con.show_stack_all()
         return data
     
-    def get_on_off(status):
-        data = Con.get_on_off(status)
-        if(data):
-            data  = Con.show_all()
-        else:
-            data = []
-
-class Action:
     def show_all():
         data = Con.show_all()
         return data
@@ -33,7 +25,7 @@ class Action:
         else:
             data = {"error": True}
         return data
-
+    
     def reset_stack_coin(id):
         data = Con.reset_stack_coin(id)
         if(data):
@@ -58,9 +50,6 @@ class Action:
             data = {"error": True}
         return data
 
-    def reset_stack_coin(id):
-        data = Con.reset_stack_coin(id)
-        return data
 
     def add_coin_1_to_1coin():
         data = Con.Add_coin_1()

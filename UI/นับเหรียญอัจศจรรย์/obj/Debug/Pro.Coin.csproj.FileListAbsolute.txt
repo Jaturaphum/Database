@@ -1,0 +1,28 @@
+E:\Pro.Coin\HW\นับเหรียญอัจศจรรย์\obj\Debug\Pro.Coin.csproj.AssemblyReference.cache
+E:\Pro.Coin\HW\นับเหรียญอัจศจรรย์\obj\Debug\Pro.Coin.csproj.SuggestedBindingRedirects.cache
+E:\Pro.Coin\HW\นับเหรียญอัจศจรรย์\obj\Debug\Pro.Coin.Form1.resources
+E:\Pro.Coin\HW\นับเหรียญอัจศจรรย์\obj\Debug\นับเหรียญอัจศจรรย์.Properties.Resources.resources
+E:\Pro.Coin\HW\นับเหรียญอัจศจรรย์\obj\Debug\Pro.Coin.csproj.GenerateResource.cache
+E:\Pro.Coin\HW\นับเหรียญอัจศจรรย์\obj\Debug\Pro.Coin.csproj.CoreCompileInputs.cache
+E:\Pro.Coin\HW\นับเหรียญอัจศจรรย์\obj\Debug\นับเหรียญอัจศจรรย์.exe
+E:\Pro.Coin\HW\นับเหรียญอัจศจรรย์\obj\Debug\นับเหรียญอัจศจรรย์.pdb
+E:\Pro.Coin\HW\นับเหรียญอัจศจรรย์\bin\Debug\นับเหรียญอัจศจรรย์.exe.config
+E:\Pro.Coin\HW\นับเหรียญอัจศจรรย์\bin\Debug\นับเหรียญอัจศจรรย์.exe
+E:\Pro.Coin\HW\นับเหรียญอัจศจรรย์\bin\Debug\นับเหรียญอัจศจรรย์.pdb
+E:\Pro.Coin\HW\นับเหรียญอัจศจรรย์\bin\Debug\Newtonsoft.Json.dll
+E:\Pro.Coin\HW\นับเหรียญอัจศจรรย์\bin\Debug\Newtonsoft.Json.xml
+E:\Pro.Coin\HW\นับเหรียญอัจศจรรย์\obj\Debug\Pro.Coin.csproj.CopyComplete
+E:\Jaturaphum Suaprakhon\program_code\PROJECTSUM\UI\นับเหรียญอัจศจรรย์\bin\Debug\นับเหรียญอัจศจรรย์.exe.config
+E:\Jaturaphum Suaprakhon\program_code\PROJECTSUM\UI\นับเหรียญอัจศจรรย์\bin\Debug\นับเหรียญอัจศจรรย์.exe
+E:\Jaturaphum Suaprakhon\program_code\PROJECTSUM\UI\นับเหรียญอัจศจรรย์\bin\Debug\นับเหรียญอัจศจรรย์.pdb
+E:\Jaturaphum Suaprakhon\program_code\PROJECTSUM\UI\นับเหรียญอัจศจรรย์\bin\Debug\Newtonsoft.Json.dll
+E:\Jaturaphum Suaprakhon\program_code\PROJECTSUM\UI\นับเหรียญอัจศจรรย์\bin\Debug\Newtonsoft.Json.xml
+E:\Jaturaphum Suaprakhon\program_code\PROJECTSUM\UI\นับเหรียญอัจศจรรย์\obj\Debug\Pro.Coin.csproj.AssemblyReference.cache
+E:\Jaturaphum Suaprakhon\program_code\PROJECTSUM\UI\นับเหรียญอัจศจรรย์\obj\Debug\Pro.Coin.csproj.SuggestedBindingRedirects.cache
+E:\Jaturaphum Suaprakhon\program_code\PROJECTSUM\UI\นับเหรียญอัจศจรรย์\obj\Debug\Pro.Coin.Form1.resources
+E:\Jaturaphum Suaprakhon\program_code\PROJECTSUM\UI\นับเหรียญอัจศจรรย์\obj\Debug\นับเหรียญอัจศจรรย์.Properties.Resources.resources
+E:\Jaturaphum Suaprakhon\program_code\PROJECTSUM\UI\นับเหรียญอัจศจรรย์\obj\Debug\Pro.Coin.csproj.GenerateResource.cache
+E:\Jaturaphum Suaprakhon\program_code\PROJECTSUM\UI\นับเหรียญอัจศจรรย์\obj\Debug\Pro.Coin.csproj.CoreCompileInputs.cache
+E:\Jaturaphum Suaprakhon\program_code\PROJECTSUM\UI\นับเหรียญอัจศจรรย์\obj\Debug\Pro.Coin.csproj.CopyComplete
+E:\Jaturaphum Suaprakhon\program_code\PROJECTSUM\UI\นับเหรียญอัจศจรรย์\obj\Debug\นับเหรียญอัจศจรรย์.exe
+E:\Jaturaphum Suaprakhon\program_code\PROJECTSUM\UI\นับเหรียญอัจศจรรย์\obj\Debug\นับเหรียญอัจศจรรย์.pdb

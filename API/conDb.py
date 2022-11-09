@@ -11,20 +11,10 @@ class condb:
     )
     return mydb
 
-class Con:
-  def get_on_off(status):
-    mydb = condb.condb()
-    mycursor = mydb.cursor(dictionary=True)
-    sql = "UPDATE coin SET status = '{}'".format(status)
-    mycursor.execute(sql)
-    mydb.commit()
-    mycursor.close()
-    mydb.close()        
-    return True
-  
+class Con:  
   def show_stack_all():
     mydb=condb.condb()
-    mycursor = mydb.cursor(dictionary=True)
+    mycursor = mydb.cursor(dictionary = True)
     sql = "SELECT stack_coin FROM coin"
     mycursor.execute(sql)
     data = mycursor.fetchall()
@@ -34,7 +24,7 @@ class Con:
   
   def show_all():
     mydb=condb.condb()
-    mycursor = mydb.cursor(dictionary=True)
+    mycursor = mydb.cursor(dictionary = True)
     sql = "SELECT * FROM coin"
     mycursor.execute(sql)
     data = mycursor.fetchall()
@@ -44,7 +34,7 @@ class Con:
 
   def show_stack_coin(id):
     mydb=condb.condb()
-    mycursor = mydb.cursor(dictionary=True)
+    mycursor = mydb.cursor(dictionary = True)
     sql = "SELECT stack_coin FROM coin WHERE id = {}".format(id)
     mycursor.execute(sql)
     data = mycursor.fetchall()
@@ -54,7 +44,7 @@ class Con:
 
   def get_stack_coin(stack_coin,id):
     mydb = condb.condb()
-    mycursor = mydb.cursor(dictionary=True)
+    mycursor = mydb.cursor(dictionary = True)
     sql = "UPDATE coin SET stack_coin = {} WHERE id = {}".format(stack_coin,id)
     mycursor.execute(sql)
     mydb.commit()
@@ -100,7 +90,7 @@ class Con:
         data = mycursor.fetchall()
         mycursor.close()
         mydb.close()
-        return data
+        return data      
 
   def show_stack_coin(id):
         mydb=condb.condb()
@@ -146,7 +136,7 @@ class Con:
   def Add_coin_1():
         mydb = condb.condb()
         mycursor = mydb.cursor(dictionary=True)
-        sql = "UPDATE coin SET stack_coin =stack_coin+1 WHERE id = 1"
+        sql = "UPDATE coin SET stack_coin =stack_coin+1 WHERE id = 3"
         mycursor.execute(sql)
         mydb.commit()
         mycursor.close()
